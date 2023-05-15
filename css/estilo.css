@@ -1,0 +1,17 @@
+
+.foto-portada{
+    width:800px;
+}
+.foto-portada img{
+	float:right;
+    width:150px;height:150px;
+    background:#fff none no-repeat center;border:5px solid #e6e6e6;border-radius:100px;box-shadow:0 5px 20px #ddd inset, 0 3px 0 #999 inset;
+    color:#777;display:block;margin:-80px 0 5px 20px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #45a1ff;
+    color: #fff;
+}
